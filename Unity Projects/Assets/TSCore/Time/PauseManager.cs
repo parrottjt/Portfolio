@@ -1,4 +1,4 @@
-﻿using FrikinCore.Utils.Utils;
+﻿using SharkCore.Utils.Utils;
 using TSCore.Time;
 using TSCore.Utils;
 using UnityEngine;

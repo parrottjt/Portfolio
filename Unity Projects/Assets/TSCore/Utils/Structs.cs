@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace FrikinCore.Utils.Utils
+namespace SharkCore.Utils.Utils
 {
     public class Structs
     {

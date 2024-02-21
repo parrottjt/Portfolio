@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections;
-using FrikinCore.Utils.Utils;
+using SharkCore.Utils.Utils;
 using TSCore.Utils;
 using UnityEngine;
 

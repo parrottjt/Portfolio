@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using FrikinCore.Utils.Utils;
+using SharkCore.Utils.Utils;
 using TSCore.Pathfinding;
 using TSCore.Utils;
 
