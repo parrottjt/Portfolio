@@ -1,5 +1,4 @@
-﻿using System;
-using FrikinCore.Input;
+﻿using FrikinCore.Input;
 using FrikinCore.Player;
 using UnityEngine;
 using UnityEngine.UI;

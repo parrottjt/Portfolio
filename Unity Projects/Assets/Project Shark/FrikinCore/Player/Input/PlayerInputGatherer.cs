@@ -1,5 +1,4 @@
-﻿using System.Linq;
-//using Rewired;
+﻿//using Rewired;
 using UnityEngine;
 
 namespace FrikinCore.Player.Input

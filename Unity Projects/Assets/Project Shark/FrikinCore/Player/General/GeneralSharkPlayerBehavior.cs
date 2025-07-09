@@ -1,5 +1,4 @@
 ﻿using FrikinCore.Player.Inventory;
-using FrikinCore.Player.Managers;
 using FrikinCore.Player.Weapons;
 using FrikinCore.Sfx;
 using FrikinCore.Stats;

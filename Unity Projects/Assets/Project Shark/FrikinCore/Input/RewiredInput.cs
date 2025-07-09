@@ -1,7 +1,5 @@
-using System.Collections.Generic;
 //using Rewired;
-using TSCore.Utils;
-using UnityEngine;
+
 //todo: If we use rewired add IInput
 public class RewiredInput
 {

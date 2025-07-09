@@ -1,7 +1,6 @@
 ﻿using FrikinCore.GameInformation;
 using UnityEngine;
 using UnityEngine.Audio;
-using UnityEngine.Serialization;
 using UnityEngine.UI;
 
 namespace FrikinCore.Sfx

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vC1k9EhPS5qRfCPk2+CPklqGup40oXU+N3UEKUdG2e3jXApNJOP8+RO/NFU1h1P7oXWiewfO5m64czUJq+oCTg==",
+  "dgSpecHash": "V5fTBoXJ+xE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jonpa\\Documents\\GitHub\\programming-portfolio\\Learning\\Learning.App\\Learning.App.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "G:\\Github\\Portfolio\\Learning\\Learning.App\\Learning.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,6 @@
-using FrikinCore.Player.Weapons;
 using TSCore.Utils;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.InputSystem.Interactions;
 
 namespace FrikinCore.Input
 {

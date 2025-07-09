@@ -1,7 +1,5 @@
 ﻿using System;
 using FrikinCore.Player.Items.NewWeapon;
-using FrikinCore.Sfx;
-using UnityEngine;
 
 namespace FrikinCore.Player.Weapons
 {

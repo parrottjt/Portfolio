@@ -1,12 +1,9 @@
 ﻿using FrikinCore.DevelopmentTools;
-using FrikinCore.Enumeration;
 using FrikinCore.Input;
 using FrikinCore.Player.Items.NewWeapon;
 using FrikinCore.Player.Weapons;
 using FrikinCore.Sfx;
-using FrikinCore.Stats;
 using TSCore.Time;
-using TSCore.Utils;
 using UnityEngine;
 using Random = UnityEngine.Random;
 

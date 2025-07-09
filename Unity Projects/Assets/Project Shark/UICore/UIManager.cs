@@ -1,5 +1,4 @@
-﻿using FrikinCore;
-using FrikinCore.Input;
+﻿using FrikinCore.Input;
 using FrikinCore.ScenesManagement;
 using TSCore.Utils;
 using UnityEngine;

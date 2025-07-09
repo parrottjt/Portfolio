@@ -1,8 +1,6 @@
 ﻿using System.Collections;
-using FrikinCore;
 using FrikinCore.Player;
 using FrikinCore.Player.Inventory;
-using FrikinCore.Player.Managers;
 using FrikinCore.Player.Weapons;
 using TMPro;
 using TSCore.Time;

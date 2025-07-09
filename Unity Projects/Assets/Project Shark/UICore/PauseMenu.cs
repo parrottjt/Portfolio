@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using FrikinCore;
-using FrikinCore.Enumeration;
 using FrikinCore.Input;
 using FrikinCore.Loot.Teeth;
 using FrikinCore.ScenesManagement;

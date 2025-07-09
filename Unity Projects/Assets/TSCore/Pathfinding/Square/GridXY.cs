@@ -27,13 +27,13 @@ namespace TSCore.Pathfinding
         (int, int) _centerCell;
         public (int X, int Y) CenterCell => _centerCell;
         
-        public GridXY(int width, int height, float cellSize, Vector3 originPosition,
+        public GridXY(int width, int height, float cellSize, Transform originPosition,
             Func<GridXY<TGridObject>, int, int, TGridObject> createGridObject, bool showDebug = true)
         {
             _width = width;
             _height = height;
             _cellSize = cellSize;
-            _originPosition = originPosition;
+            _originPosition = originPosition.position;
 
             var centerX = width / 2;
             var centerY = height / 2;
@@ -51,10 +51,10 @@ namespace TSCore.Pathfinding
 
             if (showDebug) _debugTextArray = new TextMesh[width, height];
 
-            ShowDebug(showDebug);
+            ShowDebug(showDebug, originPosition);
         }
 
-        public void ShowDebug(bool showDebug)
+        public void ShowDebug(bool showDebug, Transform parent = null)
         {
             if (showDebug)
             {
@@ -67,7 +67,7 @@ namespace TSCore.Pathfinding
                 {
                     for (int y = 0; y < _gridArray.GetLength(1); y++)
                     {
-                        _debugTextArray[x, y] = GameObjectUtils.CreateWorldText(null, _gridArray[x, y]?.ToString(),
+                        _debugTextArray[x, y] = GameObjectUtils.CreateWorldText(parent, _gridArray[x, y]?.ToString(),
                             GetWorldPosition(x, y) + new Vector3(_cellSize, _cellSize) * .5f, 20, Color.white,
                             TextAnchor.MiddleCenter, TextAlignment.Center);
                         Debug.DrawLine(GetWorldPosition(x, y), GetWorldPosition(x, y + 1), Color.white, 100f);

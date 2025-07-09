@@ -10,3 +10,15 @@ C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\DataStructuresAnd
 C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\DataStructuresAndAlgorithms\obj\Debug\net6.0\refint\DataStructuresAndAlgorithms.dll
 C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\DataStructuresAndAlgorithms\obj\Debug\net6.0\DataStructuresAndAlgorithms.pdb
 C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\DataStructuresAndAlgorithms\obj\Debug\net6.0\ref\DataStructuresAndAlgorithms.dll
+E:\Github\Portfolio\Learning\DataStructuresAndAlgorithms\bin\Debug\net6.0\DataStructuresAndAlgorithms.deps.json
+E:\Github\Portfolio\Learning\DataStructuresAndAlgorithms\bin\Debug\net6.0\DataStructuresAndAlgorithms.dll
+E:\Github\Portfolio\Learning\DataStructuresAndAlgorithms\bin\Debug\net6.0\DataStructuresAndAlgorithms.pdb
+E:\Github\Portfolio\Learning\DataStructuresAndAlgorithms\obj\Debug\net6.0\DataStructuresAndAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\Portfolio\Learning\DataStructuresAndAlgorithms\obj\Debug\net6.0\DataStructuresAndAlgorithms.AssemblyInfoInputs.cache
+E:\Github\Portfolio\Learning\DataStructuresAndAlgorithms\obj\Debug\net6.0\DataStructuresAndAlgorithms.AssemblyInfo.cs
+E:\Github\Portfolio\Learning\DataStructuresAndAlgorithms\obj\Debug\net6.0\DataStructuresAndAlgorithms.csproj.CoreCompileInputs.cache
+E:\Github\Portfolio\Learning\DataStructuresAndAlgorithms\obj\Debug\net6.0\DataStructuresAndAlgorithms.sourcelink.json
+E:\Github\Portfolio\Learning\DataStructuresAndAlgorithms\obj\Debug\net6.0\DataStructuresAndAlgorithms.dll
+E:\Github\Portfolio\Learning\DataStructuresAndAlgorithms\obj\Debug\net6.0\refint\DataStructuresAndAlgorithms.dll
+E:\Github\Portfolio\Learning\DataStructuresAndAlgorithms\obj\Debug\net6.0\DataStructuresAndAlgorithms.pdb
+E:\Github\Portfolio\Learning\DataStructuresAndAlgorithms\obj\Debug\net6.0\ref\DataStructuresAndAlgorithms.dll

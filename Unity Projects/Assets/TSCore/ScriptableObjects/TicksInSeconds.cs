@@ -1,5 +1,4 @@
-﻿using System;
-using TSCore.Time;
+﻿using TSCore.Time;
 using UnityEngine;
 
 namespace TSCore.ScriptableObject
