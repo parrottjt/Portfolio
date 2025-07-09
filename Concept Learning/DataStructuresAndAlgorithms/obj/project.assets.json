@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "DataStructuresAndAlgorithms/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/DataStructuresAndAlgorithms.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DataStructuresAndAlgorithms.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "DataStructuresAndAlgorithms/1.0.0": {
-      "type": "project",
-      "path": "../DataStructuresAndAlgorithms/DataStructuresAndAlgorithms.csproj",
-      "msbuildProject": "../DataStructuresAndAlgorithms/DataStructuresAndAlgorithms.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "DataStructuresAndAlgorithms >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\Admin\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Github\\Portfolio\\Learning\\Learning.App\\Learning.App.csproj",
-      "projectName": "Learning.App",
-      "projectPath": "G:\\Github\\Portfolio\\Learning\\Learning.App\\Learning.App.csproj",
+      "projectUniqueName": "G:\\Github\\Portfolio\\Concept Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj",
+      "projectName": "DataStructuresAndAlgorithms",
+      "projectPath": "G:\\Github\\Portfolio\\Concept Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "G:\\Github\\Portfolio\\Learning\\Learning.App\\obj\\",
+      "outputPath": "G:\\Github\\Portfolio\\Concept Learning\\DataStructuresAndAlgorithms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,11 +31,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "G:\\Github\\Portfolio\\Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj": {
-              "projectPath": "G:\\Github\\Portfolio\\Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -80,10 +57,6 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.16, 6.0.16]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
             "version": "[6.0.16, 6.0.16]"
           },
           {

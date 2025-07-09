@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Github\\Portfolio\\Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj": {}
+    "G:\\Github\\Portfolio\\Concept Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj": {}
   },
   "projects": {
-    "G:\\Github\\Portfolio\\Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj": {
+    "G:\\Github\\Portfolio\\Concept Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Github\\Portfolio\\Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj",
+        "projectUniqueName": "G:\\Github\\Portfolio\\Concept Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj",
         "projectName": "DataStructuresAndAlgorithms",
-        "projectPath": "G:\\Github\\Portfolio\\Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj",
+        "projectPath": "G:\\Github\\Portfolio\\Concept Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "G:\\Github\\Portfolio\\Learning\\DataStructuresAndAlgorithms\\obj\\",
+        "outputPath": "G:\\Github\\Portfolio\\Concept Learning\\DataStructuresAndAlgorithms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

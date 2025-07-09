@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Github\\Portfolio\\Learning\\Learning.App\\Learning.App.csproj": {}
+    "G:\\Github\\Portfolio\\Concept Learning\\Learning.App\\Learning.App.csproj": {}
   },
   "projects": {
-    "G:\\Github\\Portfolio\\Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj": {
+    "G:\\Github\\Portfolio\\Concept Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Github\\Portfolio\\Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj",
+        "projectUniqueName": "G:\\Github\\Portfolio\\Concept Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj",
         "projectName": "DataStructuresAndAlgorithms",
-        "projectPath": "G:\\Github\\Portfolio\\Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj",
+        "projectPath": "G:\\Github\\Portfolio\\Concept Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "G:\\Github\\Portfolio\\Learning\\DataStructuresAndAlgorithms\\obj\\",
+        "outputPath": "G:\\Github\\Portfolio\\Concept Learning\\DataStructuresAndAlgorithms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -71,14 +71,14 @@
         }
       }
     },
-    "G:\\Github\\Portfolio\\Learning\\Learning.App\\Learning.App.csproj": {
+    "G:\\Github\\Portfolio\\Concept Learning\\Learning.App\\Learning.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Github\\Portfolio\\Learning\\Learning.App\\Learning.App.csproj",
+        "projectUniqueName": "G:\\Github\\Portfolio\\Concept Learning\\Learning.App\\Learning.App.csproj",
         "projectName": "Learning.App",
-        "projectPath": "G:\\Github\\Portfolio\\Learning\\Learning.App\\Learning.App.csproj",
+        "projectPath": "G:\\Github\\Portfolio\\Concept Learning\\Learning.App\\Learning.App.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "G:\\Github\\Portfolio\\Learning\\Learning.App\\obj\\",
+        "outputPath": "G:\\Github\\Portfolio\\Concept Learning\\Learning.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -93,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\Github\\Portfolio\\Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj": {
-                "projectPath": "G:\\Github\\Portfolio\\Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj"
+              "G:\\Github\\Portfolio\\Concept Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj": {
+                "projectPath": "G:\\Github\\Portfolio\\Concept Learning\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms.csproj"
               }
             }
           }
